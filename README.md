@@ -52,7 +52,7 @@ store.save_to_file("data.json")
 
 ## Roadmap
 
-- [ ] SQLite persistence layer (in progress)
+- [ ✅] SQLite persistence layer (done)
 - [ ] Metadata filtering during search
 - [ ] Feeds into Project 2: a production RAG system using this store's concepts with FastAPI + ChromaDB
 
